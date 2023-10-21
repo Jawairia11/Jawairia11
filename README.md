@@ -1,7 +1,7 @@
 ### Lets Connect for Upgrading Skills and Networking for Reaching out Jobs  👋
 I am DataScientist having interests in
 ```yaml  
-* Machine Laerning  ,   Artificial Intelligence  , Natural Language Processing * 
+* Machine Laerning  ,   Artificial Intelligence  ,     Natural Language Processing * 
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
