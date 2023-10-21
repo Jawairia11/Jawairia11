@@ -1,10 +1,9 @@
 ### Hi there 👋
 I am DataScientist having interests in
 ```yaml
-* Machine Laerning , Artificial Intelligence *
+* Machine Laerning  ,   Artificial Intelligence *
 ```
 Machine Learning Artificaila Intelligence 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <!--
 **Jawairia11/Jawairia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
