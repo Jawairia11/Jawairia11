@@ -4,9 +4,7 @@
 **Jawairia11/Jawairia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-```yaml
-* Interests  Machine Learning  *
-```
+
 - 🔭 I’m currently working on Data Science , AI and Machine Learning 
 - 🌱 I’m currently learning Natural Language Processing 
 - 👯 I’m looking to collaborate on people interested in Artificial Intelligence 
