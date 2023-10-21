@@ -15,7 +15,7 @@ I am DataScientist having interests in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"    alt = "C "  width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"    alt = "C "  width="45" height="45"  />
 
-   - 🌱 I’m currently learning Natural Language Processing and SEARCHING  for JOB
+   - 🌱  <h2>I’m currently learning Natural Language Processing and SEARCHING  for JOB </h2>
    
 - 👯  Reach me: ... https://www.linkedin.com/in/jawairia-rasheed-159ab755/  
 - 💬  Email me at ....   latest_genius@yahoo.com /  LATEST_GENIUS@YAHOO.COM
