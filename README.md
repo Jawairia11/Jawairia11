@@ -15,8 +15,8 @@ I am DataScientist having interests in
 - 👯 I’m looking to collaborate on people interested in Artificial Intelligence 
 
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/jawairia-rasheed-159ab755/
-                       latest_genius@yahoo.com
+   Reach me:  https://www.linkedin.com/in/jawairia-rasheed-159ab755/ 
+       Email me at      latest_genius@yahoo.com 
    <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
