@@ -3,7 +3,7 @@ I am DataScientist having interests in
 ```yaml  
 * Machine Laerning  ,   Artificial Intelligence  ,     Natural Language Processing * 
 ```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt = "Python"  width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt = "Numpy"  width="45" height="45" />
