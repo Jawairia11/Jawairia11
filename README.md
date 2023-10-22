@@ -16,8 +16,7 @@ I am DataScientist having interests in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"    alt = "C "  width="45" height="45"  />
 
  <h2>I’m currently SEARCHING  for JOB </h2>
- 
-  ```yaml   
+  
 - 👯  Reach me: ... https://www.linkedin.com/in/jawairia-rasheed-159ab755/  
-- 💬  Email me at ....   latest_genius@yahoo.com /  LATEST_GENIUS@YAHOO.COM  ```
+ ```yaml  - 💬  Email me at ....   latest_genius@yahoo.com /  LATEST_GENIUS@YAHOO.COM  ```
    <p align="center">  </a>
